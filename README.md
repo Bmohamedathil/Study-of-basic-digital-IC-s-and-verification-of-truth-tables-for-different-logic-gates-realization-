@@ -63,7 +63,6 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 
 ```
 Developed by: MOHAMED ATHIL B
-
 RegisterNumber: 212222230081
 ```
 
